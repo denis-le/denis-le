@@ -16,7 +16,7 @@
 
 ### 📫 Let's Connect!
 - [LinkedIn](https://www.linkedin.com/in/denisle/)
-- [Email](mailto://dl.denisle@gmail.com)
+- [Email](mailto:dl.denisle@gmail.com)
 
 <!--
 **denis-le/denis-le** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
