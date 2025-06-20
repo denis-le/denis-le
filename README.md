@@ -1,4 +1,22 @@
-## Hi there 👋
+## Hi, I'm Denis 👋
+
+🎓 Senior studying Computer Science @ Wentworth Institute of Technology
+📅 Graduating August 2025
+📍 Based in Boston, MA
+
+### 💻 Tech Stack
+**Languages:** Python, JavaScript, Java, Swift, SQL
+**Frameworks & Libraries:** FastAPI, Express, React, Node.js
+**Developer Tools:** Git, Docker, VS Code, XCode
+**Databases:** MongoDB, MySQL
+
+### 🧠 Current Focus
+- Working on my senior project: MindTrace - A visual mind map extension for VS Code
+- Learning: TypeScript
+
+### 📫 Let's Connect!
+- [LinkedIn](https://www.linkedin.com/in/denisle/)
+- [Email](mailto://dl.denisle@gmail.com)
 
 <!--
 **denis-le/denis-le** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
