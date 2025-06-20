@@ -1,14 +1,14 @@
 ## Hi, I'm Denis 👋
 
-🎓 Senior studying Computer Science @ Wentworth Institute of Technology
-📅 Graduating August 2025
-📍 Based in Boston, MA
+🎓 Senior studying Computer Science @ Wentworth Institute of Technology  
+📅 Graduating August 2025  
+📍 Based in Boston, MA  
 
 ### 💻 Tech Stack
-**Languages:** Python, JavaScript, Java, Swift, SQL
-**Frameworks & Libraries:** FastAPI, Express, React, Node.js
-**Developer Tools:** Git, Docker, VS Code, XCode
-**Databases:** MongoDB, MySQL
+**Languages:** Python, JavaScript, Java, Swift, SQL  
+**Frameworks & Libraries:** FastAPI, Express, React, Node.js  
+**Developer Tools:** Git, Docker, VS Code, XCode  
+**Databases:** MongoDB, MySQL  
 
 ### 🧠 Current Focus
 - Working on my senior project: MindTrace - A visual mind map extension for VS Code
