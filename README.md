@@ -10,10 +10,6 @@
 **Developer Tools:** Git, Docker, VS Code, XCode  
 **Databases:** MongoDB, MySQL  
 
-### 🧠 Current Focus
-- Working on my senior project: MindTrace - A visual mind map extension for VS Code
-- Learning: TypeScript
-
 ### 📫 Let's Connect!
 - [LinkedIn](https://www.linkedin.com/in/denisle/)
 - [Email](mailto:dl.denisle@gmail.com)
